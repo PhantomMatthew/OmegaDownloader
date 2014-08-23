@@ -19,3 +19,9 @@ H:\OmegaDownloaderGUI\bin\Debug\log4net.pdb
 H:\OmegaDownloaderGUI\bin\Debug\log4net.xml
 H:\OmegaDownloaderGUI\log4net-1.2.13\src\obj\Debug\log4net.dll
 H:\OmegaDownloaderGUI\log4net-1.2.13\src\obj\Debug\log4net.pdb
+D:\SourceCode\github\OmegaDownloader\OmegaDownloaderGUI\bin\Debug\log4net.dll
+D:\SourceCode\github\OmegaDownloader\OmegaDownloaderGUI\bin\Debug\log4net.pdb
+D:\SourceCode\github\OmegaDownloader\OmegaDownloaderGUI\bin\Debug\log4net.xml
+D:\SourceCode\github\OmegaDownloader\OmegaDownloaderGUI\log4net-1.2.13\src\obj\Debug\log4net.csprojResolveAssemblyReference.cache
+D:\SourceCode\github\OmegaDownloader\OmegaDownloaderGUI\log4net-1.2.13\src\obj\Debug\log4net.dll
+D:\SourceCode\github\OmegaDownloader\OmegaDownloaderGUI\log4net-1.2.13\src\obj\Debug\log4net.pdb

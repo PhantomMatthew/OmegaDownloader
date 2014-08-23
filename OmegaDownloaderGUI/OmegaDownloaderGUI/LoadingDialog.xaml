@@ -1,0 +1,9 @@
+﻿<Window x:Class="OmegaDownloaderGUI.LoadingDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:control="clr-namespace:OmegaDownloaderGUI.Control"
+        Title="LoadingDialog" Height="300" Width="300" WindowStartupLocation="CenterScreen" AllowsTransparency="True" Topmost="True" ShowInTaskbar="False" WindowStyle="None">
+    <Grid>
+        <control:LoadingAnimation HorizontalAlignment="Center" VerticalAlignment="Center"/>
+    </Grid>
+</Window>

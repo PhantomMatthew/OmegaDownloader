@@ -22,3 +22,9 @@ H:\OmegaDownloaderGUI\OmegaDownloader\obj\Debug\OmegaDownloader.pdb
 G:\OmegaDownloaderGUI\OmegaDownloader\obj\Debug\OmegaDownloader.csprojResolveAssemblyReference.cache
 G:\OmegaDownloaderGUI\OmegaDownloader\obj\Debug\OmegaDownloader.exe
 G:\OmegaDownloaderGUI\OmegaDownloader\obj\Debug\OmegaDownloader.pdb
+D:\SourceCode\github\OmegaDownloader\OmegaDownloaderGUI\bin\Debug\OmegaDownloader.exe.config
+D:\SourceCode\github\OmegaDownloader\OmegaDownloaderGUI\bin\Debug\OmegaDownloader.exe
+D:\SourceCode\github\OmegaDownloader\OmegaDownloaderGUI\bin\Debug\OmegaDownloader.pdb
+D:\SourceCode\github\OmegaDownloader\OmegaDownloaderGUI\OmegaDownloader\obj\Debug\OmegaDownloader.csprojResolveAssemblyReference.cache
+D:\SourceCode\github\OmegaDownloader\OmegaDownloaderGUI\OmegaDownloader\obj\Debug\OmegaDownloader.exe
+D:\SourceCode\github\OmegaDownloader\OmegaDownloaderGUI\OmegaDownloader\obj\Debug\OmegaDownloader.pdb

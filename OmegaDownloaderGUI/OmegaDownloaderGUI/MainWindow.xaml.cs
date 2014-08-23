@@ -1,5 +1,8 @@
 ﻿using System;
 using System.Windows;
+using System.Threading.Tasks;
+using System.Threading;
+using System.ComponentModel;
 
 namespace OmegaDownloaderGUI
 {
@@ -9,6 +12,11 @@ namespace OmegaDownloaderGUI
     public partial class MainWindow : Window
     {
         private static readonly log4net.ILog log = log4net.LogManager.GetLogger(System.Reflection.MethodBase.GetCurrentMethod().DeclaringType);
+        BackgroundWorker downloadWorker;
+        LoadingDialog waitWnd;
+        YayaxzSource yayaxzSource;
+
+        static AutoResetEvent downloadEnd = new AutoResetEvent(false);
 
         public MainWindow()
         {
@@ -77,12 +85,41 @@ namespace OmegaDownloaderGUI
                 baseAddress = TbYayaxzSeriesName.Text;
             }
 
-            DownloadSettings yyetsDs = new DownloadSettings(baseAddress, 0);
-            YYetsSource yyetsSource = new YYetsSource(yyetsDs);
-            WaitingWindows waitWnd = new WaitingWindows();
+            DownloadSettings yayaxzDs = new DownloadSettings(baseAddress, 0);
+            yayaxzSource = new YayaxzSource(yayaxzDs);
+            waitWnd = new LoadingDialog();
+
             waitWnd.Show();
-            yyetsSource.DoDownload();
-            waitWnd.Close();
+
+            //downloadWorker = new BackgroundWorker();
+            //downloadWorker.WorkerSupportsCancellation = true;
+            //downloadWorker.DoWork += new DoWorkEventHandler(doDownloadWorkFunction);
+            //downloadWorker.RunWorkerCompleted += new RunWorkerCompletedEventHandler(doDownloadWorkCompleted);
+
+            //downloadWorker.RunWorkerAsync();
+
+            Thread downloadThread = new Thread(new ThreadStart(yayaxzSource.DoDownload));
+            downloadThread.IsBackground = true;
+            downloadThread.SetApartmentState(ApartmentState.STA);
+            downloadThread.Start();
+        }
+
+        private void StopLoading()
+        {
+            
+        }
+
+        private void doDownloadWorkFunction(object sender, DoWorkEventArgs e)
+        {
+            if (yayaxzSource != null)
+                yayaxzSource.DoDownload();
+
+        }
+
+        private void doDownloadWorkCompleted(object sender, RunWorkerCompletedEventArgs e)
+        {
+            if (waitWnd != null)
+                waitWnd.Close();
         }
     }
 }

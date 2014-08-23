@@ -29,8 +29,7 @@ namespace OmegaDownloaderGUI
             List<string> hrefList = new List<string>();
             string strReturn = string.Empty;
 
-            //_mStrXpath = "//li[@format='HR-HDTV']//a[@thundertype]";
-            _mStrXpath = "//li[@format='HR-HDTV']//a[@type='ed2k']";
+            _mStrXpath = "//li[@format='HR-HDTV']//a[@thundertype]";
 
             HtmlNodeCollection hnc2 = doc.DocumentNode.SelectNodes(_mStrXpath);
             if (hnc2 != null)
