@@ -1,0 +1,3 @@
+C:\SourceCode\TeahourFm\log4net-1.2.13\build\bin\net\2.0\release\log4net.dll
+C:\SourceCode\TeahourFm\log4net-1.2.13\build\bin\net\2.0\release\log4net.xml
+C:\SourceCode\TeahourFm\log4net-1.2.13\src\obj\Release\log4net.dll

@@ -1,0 +1,17 @@
+D:\OmegaDownloaderGUI\bin\Debug\HtmlAgilityPack.XML
+D:\OmegaDownloaderGUI\bin\Debug\HtmlAgilityPack.dll
+D:\OmegaDownloaderGUI\bin\Debug\HtmlAgilityPack.pdb
+D:\OmegaDownloaderGUI\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.dll
+D:\OmegaDownloaderGUI\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.pdb
+G:\OmegaDownloaderGUI\bin\Debug\HtmlAgilityPack.XML
+G:\OmegaDownloaderGUI\bin\Debug\HtmlAgilityPack.dll
+G:\OmegaDownloaderGUI\bin\Debug\HtmlAgilityPack.pdb
+G:\OmegaDownloaderGUI\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.fx.4.5.csprojResolveAssemblyReference.cache
+G:\OmegaDownloaderGUI\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.dll
+G:\OmegaDownloaderGUI\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.pdb
+H:\OmegaDownloaderGUI\bin\Debug\HtmlAgilityPack.XML
+H:\OmegaDownloaderGUI\bin\Debug\HtmlAgilityPack.dll
+H:\OmegaDownloaderGUI\bin\Debug\HtmlAgilityPack.pdb
+H:\OmegaDownloaderGUI\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.dll
+H:\OmegaDownloaderGUI\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.pdb
+H:\OmegaDownloaderGUI\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.fx.4.5.csprojResolveAssemblyReference.cache

@@ -1,0 +1,2 @@
+D:\SourceCode\OmegaDownloaderGUI\RibbonControlsLibrary\v4.0\obj\Release\RibbonControlsLibrary_v40.csprojResolveAssemblyReference.cache
+D:\SourceCode\OmegaDownloaderGUI\RibbonControlsLibrary\v4.0\obj\Release\RibbonControlsLibrary_MarkupCompile.cache

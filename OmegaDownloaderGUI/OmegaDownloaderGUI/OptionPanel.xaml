@@ -1,0 +1,18 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:Custom="http://schemas.microsoft.com/winfx/2006/xaml/presentation/ribbon" x:Class="OmegaDownloaderGUI.OptionPanel"
+        Title="Options" Height="600" Width="400">
+    <Grid>
+        <GroupBox Header="Folder Settings" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="130" Width="372">
+            <StackPanel Margin="0,0,0,10">
+                <Label Content="Root Directory:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+                <TextBox Margin="10,5,10,5">Input folder name here
+                </TextBox>
+                <Button Content="Browse to:" Margin="250,5,30,3"/>
+            </StackPanel>
+        </GroupBox>
+        <Button Content="Apply" HorizontalAlignment="Left" Margin="280,367,0,0" VerticalAlignment="Top" Width="102" Height="37"/>
+
+    </Grid>
+</Window>

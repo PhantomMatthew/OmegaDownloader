@@ -1,0 +1,65 @@
+﻿<Window x:Class="OmegaDownloaderGUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Omega Downloader" Height="800" Width="1200" WindowStartupLocation="CenterScreen" Icon="icon.ico" FontSize="16">
+    <Grid Margin="0,0,0,0" ShowGridLines="True">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="80*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <!--<r:Ribbon Grid.Row="0">
+            <r:Ribbon.ApplicationMenu>
+                <r:RibbonApplicationMenu>
+                    <r:RibbonApplicationMenuItem Header="Exit" />
+                    <r:RibbonApplicationMenuItem Header="About"/>
+                </r:RibbonApplicationMenu>
+            </r:Ribbon.ApplicationMenu>
+            <r:RibbonTab Header="Home">
+                <r:RibbonGroup Header="Clipboard">
+                    <r:RibbonButton Label="Copy" SmallImageSource="Images/Options_16x16.png" LargeImageSource="Images/Options_32x32.png"/>
+                </r:RibbonGroup>
+                <r:RibbonGroup Header="Database">
+                </r:RibbonGroup>
+                <r:RibbonGroup Header="Options">
+                    <r:RibbonButton Label="Options"  SmallImageSource="Images/Options_16x16.png" LargeImageSource="Images/Options_32x32.png" Click="OptionsButton_Click"/>
+                </r:RibbonGroup>
+            </r:RibbonTab>
+        </r:Ribbon>-->
+        <!--<ToolBar Grid.Row="0">
+            <Button Margin="0,30,0,29" Width="51">Open
+            </Button>
+            <Separator>
+            </Separator>
+        </ToolBar>-->
+        <TabControl HorizontalAlignment="Left" Grid.Row="1" Width="1172" Margin="10,5,10,5">
+            <TabItem Header="TeahourFm">
+                <StackPanel Margin="0,5,0,38">
+                    <Button Content="Button" HorizontalAlignment="Left" Margin="286,47,0,0" VerticalAlignment="Top" Width="190" Height="41" Click="Button_Click" RenderTransformOrigin="1.178,0.389"/>
+                </StackPanel>
+            </TabItem>
+            <TabItem Header="yayaxz">
+                <StackPanel>
+                    <Label Margin="10,5,10,5" Content="Input Series' Name:"></Label>
+                    <TextBox x:Name="TbYayaxzSeriesName" Margin="10,5,10,5"></TextBox>
+                    <Button x:Name="BtnYayaxzDownload" Content="Download" Height="78" Margin="250,100, 50,10" Click="BtnYayaxzDownload_OnClickDownload_Click"/>
+                </StackPanel>
+            </TabItem>
+            <TabItem Header="pinshu8">
+                <StackPanel>
+                    <Label Margin="10,5,10,5" Content="Base Download Address:"></Label>
+                    <TextBox x:Name="Pingshu8TextBox" Margin="10,5,10,5"></TextBox>
+                    <Label Margin="10,5,10,5" Content="How many items to download:"></Label>
+                    <TextBox x:Name="TBDownloadCount" Margin="10,5,10,5"></TextBox>
+                    <Button x:Name="Pingshu8DownloadButton" Content="Download" Height="78" Margin="250,100, 50,10" Click="Pingshu8Download_Click"/>
+                </StackPanel>
+            </TabItem>
+            <TabItem Header="YYets">
+                <StackPanel>
+                    <Label Margin="10,5,10,5" Content="Input Series' Name:"></Label>
+                    <TextBox x:Name="TbyyetsSeriesName" Margin="10,5,10,5"></TextBox>
+                    <Button x:Name="BtnYYetsDownload" Content="Download" Height="78" Margin="250,100, 50,10" Click="BtnYYetsDownload_OnClickDownload_Click"/>
+                    </StackPanel>
+                </TabItem>
+        </TabControl>
+    </Grid>
+</Window>

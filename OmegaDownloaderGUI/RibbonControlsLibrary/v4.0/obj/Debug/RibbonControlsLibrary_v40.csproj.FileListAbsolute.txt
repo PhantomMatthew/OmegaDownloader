@@ -1,0 +1,59 @@
+C:\Program Files\Microsoft Ribbon for WPF\MicrosoftRibbonForWPFSourceAndSamples\MicrosoftRibbonForWPFSourceAndSamples\RibbonControlsLibrary\v4.0\bin\Debug\RibbonControlsLibrary.dll
+C:\Program Files\Microsoft Ribbon for WPF\MicrosoftRibbonForWPFSourceAndSamples\MicrosoftRibbonForWPFSourceAndSamples\RibbonControlsLibrary\v4.0\bin\Debug\RibbonControlsLibrary.pdb
+C:\Program Files\Microsoft Ribbon for WPF\MicrosoftRibbonForWPFSourceAndSamples\MicrosoftRibbonForWPFSourceAndSamples\RibbonControlsLibrary\v4.0\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Program Files\Microsoft Ribbon for WPF\MicrosoftRibbonForWPFSourceAndSamples\MicrosoftRibbonForWPFSourceAndSamples\RibbonControlsLibrary\v4.0\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Program Files\Microsoft Ribbon for WPF\MicrosoftRibbonForWPFSourceAndSamples\MicrosoftRibbonForWPFSourceAndSamples\RibbonControlsLibrary\v4.0\obj\Debug\RibbonControlsLibrary_v40.csprojResolveAssemblyReference.cache
+C:\Program Files\Microsoft Ribbon for WPF\MicrosoftRibbonForWPFSourceAndSamples\MicrosoftRibbonForWPFSourceAndSamples\RibbonControlsLibrary\v4.0\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Program Files\Microsoft Ribbon for WPF\MicrosoftRibbonForWPFSourceAndSamples\MicrosoftRibbonForWPFSourceAndSamples\RibbonControlsLibrary\v4.0\obj\Debug\RibbonControlsLibrary_MarkupCompile.cache
+C:\Program Files\Microsoft Ribbon for WPF\MicrosoftRibbonForWPFSourceAndSamples\MicrosoftRibbonForWPFSourceAndSamples\RibbonControlsLibrary\v4.0\obj\Debug\RibbonControlsLibrary_MarkupCompile.lref
+C:\Program Files\Microsoft Ribbon for WPF\MicrosoftRibbonForWPFSourceAndSamples\MicrosoftRibbonForWPFSourceAndSamples\RibbonControlsLibrary\v4.0\obj\Debug\Themes\Aero.NormalColor.baml
+C:\Program Files\Microsoft Ribbon for WPF\MicrosoftRibbonForWPFSourceAndSamples\MicrosoftRibbonForWPFSourceAndSamples\RibbonControlsLibrary\v4.0\obj\Debug\Themes\Generic.baml
+C:\Program Files\Microsoft Ribbon for WPF\MicrosoftRibbonForWPFSourceAndSamples\MicrosoftRibbonForWPFSourceAndSamples\RibbonControlsLibrary\v4.0\obj\Debug\RibbonControlsLibrary.g.resources
+C:\Program Files\Microsoft Ribbon for WPF\MicrosoftRibbonForWPFSourceAndSamples\MicrosoftRibbonForWPFSourceAndSamples\RibbonControlsLibrary\v4.0\obj\Debug\ExceptionStringTable.resources
+C:\Program Files\Microsoft Ribbon for WPF\MicrosoftRibbonForWPFSourceAndSamples\MicrosoftRibbonForWPFSourceAndSamples\RibbonControlsLibrary\v4.0\obj\Debug\RibbonControlsLibrary_v40.csproj.GenerateResource.Cache
+C:\Program Files\Microsoft Ribbon for WPF\MicrosoftRibbonForWPFSourceAndSamples\MicrosoftRibbonForWPFSourceAndSamples\RibbonControlsLibrary\v4.0\obj\Debug\RibbonControlsLibrary.dll
+C:\Program Files\Microsoft Ribbon for WPF\MicrosoftRibbonForWPFSourceAndSamples\MicrosoftRibbonForWPFSourceAndSamples\RibbonControlsLibrary\v4.0\obj\Debug\RibbonControlsLibrary.pdb
+H:\OmegaDownloaderGUI\RibbonControlsLibrary\v4.0\bin\Debug\RibbonControlsLibrary.dll
+H:\OmegaDownloaderGUI\RibbonControlsLibrary\v4.0\bin\Debug\RibbonControlsLibrary.pdb
+H:\OmegaDownloaderGUI\RibbonControlsLibrary\v4.0\obj\Debug\RibbonControlsLibrary_v40.csprojResolveAssemblyReference.cache
+H:\OmegaDownloaderGUI\RibbonControlsLibrary\v4.0\obj\Debug\GeneratedInternalTypeHelper.g.cs
+H:\OmegaDownloaderGUI\RibbonControlsLibrary\v4.0\obj\Debug\RibbonControlsLibrary_MarkupCompile.cache
+H:\OmegaDownloaderGUI\RibbonControlsLibrary\v4.0\obj\Debug\RibbonControlsLibrary_MarkupCompile.lref
+H:\OmegaDownloaderGUI\RibbonControlsLibrary\v4.0\obj\Debug\Themes\Aero.NormalColor.baml
+H:\OmegaDownloaderGUI\RibbonControlsLibrary\v4.0\obj\Debug\Themes\Generic.baml
+H:\OmegaDownloaderGUI\RibbonControlsLibrary\v4.0\obj\Debug\RibbonControlsLibrary.g.resources
+H:\OmegaDownloaderGUI\RibbonControlsLibrary\v4.0\obj\Debug\ExceptionStringTable.resources
+H:\OmegaDownloaderGUI\RibbonControlsLibrary\v4.0\obj\Debug\RibbonControlsLibrary_v40.csproj.GenerateResource.Cache
+H:\OmegaDownloaderGUI\RibbonControlsLibrary\v4.0\obj\Debug\RibbonControlsLibrary.dll
+H:\OmegaDownloaderGUI\RibbonControlsLibrary\v4.0\obj\Debug\RibbonControlsLibrary.pdb
+G:\OmegaDownloaderGUI\RibbonControlsLibrary\v4.0\bin\Debug\RibbonControlsLibrary.dll
+G:\OmegaDownloaderGUI\RibbonControlsLibrary\v4.0\bin\Debug\RibbonControlsLibrary.pdb
+G:\OmegaDownloaderGUI\RibbonControlsLibrary\v4.0\bin\Debug\Microsoft.Windows.Shell.dll
+G:\OmegaDownloaderGUI\RibbonControlsLibrary\v4.0\bin\Debug\Microsoft.Windows.Shell.pdb
+G:\OmegaDownloaderGUI\RibbonControlsLibrary\v4.0\bin\Debug\Microsoft.Windows.Shell.xml
+G:\OmegaDownloaderGUI\RibbonControlsLibrary\v4.0\obj\Debug\RibbonControlsLibrary_v40.csprojResolveAssemblyReference.cache
+G:\OmegaDownloaderGUI\RibbonControlsLibrary\v4.0\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\OmegaDownloaderGUI\RibbonControlsLibrary\v4.0\obj\Debug\RibbonControlsLibrary_MarkupCompile.cache
+G:\OmegaDownloaderGUI\RibbonControlsLibrary\v4.0\obj\Debug\RibbonControlsLibrary_MarkupCompile.lref
+G:\OmegaDownloaderGUI\RibbonControlsLibrary\v4.0\obj\Debug\Themes\Aero.NormalColor.baml
+G:\OmegaDownloaderGUI\RibbonControlsLibrary\v4.0\obj\Debug\Themes\Generic.baml
+G:\OmegaDownloaderGUI\RibbonControlsLibrary\v4.0\obj\Debug\RibbonControlsLibrary.g.resources
+G:\OmegaDownloaderGUI\RibbonControlsLibrary\v4.0\obj\Debug\ExceptionStringTable.resources
+G:\OmegaDownloaderGUI\RibbonControlsLibrary\v4.0\obj\Debug\RibbonControlsLibrary_v40.csproj.GenerateResource.Cache
+G:\OmegaDownloaderGUI\RibbonControlsLibrary\v4.0\obj\Debug\RibbonControlsLibrary.dll
+G:\OmegaDownloaderGUI\RibbonControlsLibrary\v4.0\obj\Debug\RibbonControlsLibrary.pdb
+D:\SourceCode\OmegaDownloaderGUI\RibbonControlsLibrary\v4.0\bin\Debug\RibbonControlsLibrary.dll
+D:\SourceCode\OmegaDownloaderGUI\RibbonControlsLibrary\v4.0\bin\Debug\RibbonControlsLibrary.pdb
+D:\SourceCode\OmegaDownloaderGUI\RibbonControlsLibrary\v4.0\bin\Debug\Microsoft.Windows.Shell.pdb
+D:\SourceCode\OmegaDownloaderGUI\RibbonControlsLibrary\v4.0\bin\Debug\Microsoft.Windows.Shell.xml
+D:\SourceCode\OmegaDownloaderGUI\RibbonControlsLibrary\v4.0\obj\Debug\RibbonControlsLibrary_v40.csprojResolveAssemblyReference.cache
+D:\SourceCode\OmegaDownloaderGUI\RibbonControlsLibrary\v4.0\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\SourceCode\OmegaDownloaderGUI\RibbonControlsLibrary\v4.0\obj\Debug\RibbonControlsLibrary_MarkupCompile.cache
+D:\SourceCode\OmegaDownloaderGUI\RibbonControlsLibrary\v4.0\obj\Debug\RibbonControlsLibrary_MarkupCompile.lref
+D:\SourceCode\OmegaDownloaderGUI\RibbonControlsLibrary\v4.0\obj\Debug\Themes\Aero.NormalColor.baml
+D:\SourceCode\OmegaDownloaderGUI\RibbonControlsLibrary\v4.0\obj\Debug\Themes\Generic.baml
+D:\SourceCode\OmegaDownloaderGUI\RibbonControlsLibrary\v4.0\obj\Debug\RibbonControlsLibrary.g.resources
+D:\SourceCode\OmegaDownloaderGUI\RibbonControlsLibrary\v4.0\obj\Debug\ExceptionStringTable.resources
+D:\SourceCode\OmegaDownloaderGUI\RibbonControlsLibrary\v4.0\obj\Debug\RibbonControlsLibrary_v40.csproj.GenerateResource.Cache
+D:\SourceCode\OmegaDownloaderGUI\RibbonControlsLibrary\v4.0\obj\Debug\RibbonControlsLibrary.dll
+D:\SourceCode\OmegaDownloaderGUI\RibbonControlsLibrary\v4.0\obj\Debug\RibbonControlsLibrary.pdb

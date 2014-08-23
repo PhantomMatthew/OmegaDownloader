@@ -1,0 +1,1 @@
+C:\SourceCode\TeahourFm\log4net-1.2.13\tests\src\obj\Release\log4net.Tests.vs2010.csprojResolveAssemblyReference.cache
